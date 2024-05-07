@@ -1,1 +1,21 @@
-Hi, my name is Enzo and I'm in the 5th semester of Computer Science Bachelor Graduation. Currently, I'm interested in Data Science and also in Mobile Development using React Native. Looking forward to colaborate on various projects and learn more every day.
+Oi, me chamo Enzo Martins!
+
+    🔭 Estudante de Ciência da Computação;
+
+    📖 Estudando Data Science;
+
+    🌎 Idiomas:
+
+    Português || Inglês
+
+    🎓 Lingugens que tenho familiaridade:
+[![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![SQL](https://img.shields.io/badge/SQL-Database%20Management-yellow)](https://en.wikipedia.org/wiki/SQL)
+
+
+    📘 Linguagens e ferramentas cujo estou me aprofundando:
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Science-orange)](https://pandas.pydata.org/)
+
+[![Java](https://img.shields.io/badge/Java-Programming-blue)](https://www.java.com/)
+
