@@ -17,5 +17,6 @@ Oi, me chamo Enzo Martins!
     📘 Linguagens e ferramentas cujo estou me aprofundando:
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Science-orange)](https://pandas.pydata.org/)
 
-[![Java](https://img.shields.io/badge/Java-Programming-blue)](https://www.java.com/)
+![Flutter](https://img.shields.io/badge/Flutter-mobile-blue?labelColor=white&link=https%3A%2F%2Fdocs.flutter.dev%2F)
+
 
