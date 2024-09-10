@@ -9,7 +9,7 @@ Oi, me chamo Enzo Martins!
     Português || Inglês
 
     🎓 Lingugens que tenho familiaridade:
-[![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-Programming-yellow)](https://docs.python.org/3/)
 
 [![SQL](https://img.shields.io/badge/SQL-Database%20Management-yellow)](https://en.wikipedia.org/wiki/SQL)
 
