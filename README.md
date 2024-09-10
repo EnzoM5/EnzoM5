@@ -8,7 +8,7 @@ Oi, me chamo Enzo Martins!
 
     Português || Inglês
 
-    🎓 Lingugens que tenho familiaridade:
+    🎓 Linguagens que tenho familiaridade:
 [![Python](https://img.shields.io/badge/Python-Programming-yellow)](https://docs.python.org/3/)
 
 [![SQL](https://img.shields.io/badge/SQL-Database%20Management-yellow)](https://en.wikipedia.org/wiki/SQL)
